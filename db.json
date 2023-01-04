@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
